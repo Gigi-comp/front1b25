@@ -1,0 +1,31 @@
+body {
+    background-image: url(img/background.jpg);
+}
+#identificador {
+    color: rgb(3, 229, 236);
+    text-align: center;
+    font-size: 30px;
+    margin: 40px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+}
+#identificador:hover {
+cursor: pointer
+}
+.classe {
+    background-color: rgb(10, 6, 204);
+    text-align: right;
+    color:rgb(94, 199, 94);
+    font-size: 30px;
+    padding: 30px;
+    font-family: "Poppins", sans-serif;
+}
+.texto {
+    color: white;
+    line-height: 30px;
+    text-align: justify;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: 1px solid color( rgb(16, 103, 233));
+    font-family: "Poppins", sans-serif;
+}
